@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 260304_practice
 =======
 #cos-practice
